@@ -1,9 +1,11 @@
+
 # GIT-Commits-Trumps-Tweets
 A Repository of President Trumps Daily Tweets README
 
 **This list only includes original tweets from Trump, not retweets. 
 
 1/20
+
 Tweet 1: 3:17AM - Democrats are far more concerned with Illegal Immigrants than they are with our great Military or Safety at our dangerous Southern Border. They could have easily made a deal but decided to play Shutdown politics instead. #WeNeedMoreRepublicansIn18 in order to power through mess!
 
 Tweet 2: 3:33AM - This is the One Year Anniversary of my Presidency and the Democrats wanted to give me a nice present. #DemocratShutdown
@@ -22,6 +24,11 @@ Tweet 8: 4:47PM - The Trump Administration has terminated more UNNECESSARY Regul
 
 Tweet 9: 6:18PM Eric Trump on @JudgeJeanine on @FoxNews now!
 
+1/21
+
+Tweet 1: Great to see how hard Republicans are fighting for our Military and Safety at the Border. The Dems just want illegal immigrants to pour into our nation unchecked. If stalemate continues, Republicans should go to 51% (Nuclear Option) and vote on real, long term budget, no C.R.’s!
+
+Tweet 2: Thank you to Brad Blakeman on @FoxNews for grading year one of my presidency with an “A”-and likewise to Doug Schoen for the very good grade and statements. Working hard!
 
 
 Source: https://twitter.com/realDonaldTrump
